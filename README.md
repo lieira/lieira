@@ -1,4 +1,10 @@
 ## Oiii eu sou Leonardo Vieira Peres, desenvolvedor Full-Stack!
+
+Laravel
+Angular
+PHP
+MySQL
+Typescript
  
 <div> 
 
