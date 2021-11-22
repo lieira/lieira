@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NestJs,Laravel and Angular!
+- 🔭 I’m currently working on NestJs, Laravel and Angular!
 - 🌱 I’m always learning something new!
 - 📫 How to reach me: vieirapleo@gmail.com
 
 <div align="center">
   <a href="https://github.com/lieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lieira&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
