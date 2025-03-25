@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lieira-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Lieira-Angular" src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB">
-  <img align="center" alt="Lieira-Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img align="center" alt="Lieira-Laravel" src="https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Lieira-NestJS" src="https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB">
 </div>
 
