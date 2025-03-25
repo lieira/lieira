@@ -25,6 +25,6 @@
   <a href="https://www.linkedin.com/in/leonardo-vieira-peres-77b6a6199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.leonardovieiraperes.com.br/" target="_blank"><img src="https://img.shields.io/badge/-website-%230077B5?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
  
 </div>
